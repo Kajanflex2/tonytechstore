@@ -1,0 +1,124 @@
+//Article
+//on peut avoir 5 catégorie des articles : Vidéo, Photo,Informatique,Téléphonie,Divers
+
+id_article : 1
+designation : Fire TV Stick 
+prix: 24.99€
+categorie :Divers
+Fire TV Stick avec télécommande vocale Alexa (avec boutons de contrôle de la TV)
+
+
+id_article : 2
+designation : Microsoft Surface Laptop Go
+prix: 799
+categorie :Informatique
+
+Microsoft Surface Laptop Go (Windows 10, écran tactile 12,45", Intel Core i5, 8 Go RAM, 128 Go SSD, Bleu Glacier, clavier AZERTY français)
+
+
+id_article : 3
+designation : Caixun EC43S1A 4K UHD Smart TV
+prix: 299
+categorie :Vidéo
+
+Caixun EC43S1A 4K UHD Smart TV
+
+
+id_article : 4
+designation : Asus Zenbook Flip UX363JA-EM120T
+prix: 819
+categorie :Informatique
+Asus Zenbook Flip UX363JA-EM120T PC Portable 13.3" (Intel Core i5-1035G4, RAM 8Go, SSD 512Go, Windows 10) Clavier AZERTY Français 
+
+
+id_article : 5
+designation : NIKON D780 appareil photo 
+prix: 1299
+categorie :Photo
+
+NIKON D780 appareil photo Reflex plein format 24.5Mpx 
+
+id_article : 6
+designation : Samsung Galaxy SM-A525F 
+prix: 288
+categorie :Téléphonie
+
+Samsung Galaxy SM-A525F 16,5 cm (6.5") Double SIM Android 11 4G USB Type-C 6 Go 128 Go 4500 mAh Blanc 
+
+id_article : 7
+designation : Apple iPhone 12 256 Go
+prix: 929
+categorie :Téléphonie
+Apple iPhone 12 (256 Go) - Blanc (Comprend EarPods)
+
+id_article : 8
+designation : Apple iMac Écran Retina 5K
+prix: 1799
+categorie :Informatique
+Apple iMac Écran Retina 5K (27 Pouces, 8 Go RAM, 256 Go SSD Stockage) 
+
+
+
+
+
+//Utilisateur 
+
+nom : Christiane
+prenom : Guyon
+adresse : Rue Rotonde 77a
+ville :Arles
+mail : cguyon@mailgen.pro
+code :LfDQL5kf38HamyT6
+age : 61
+
+
+
+nom : Marcel
+prenom : Faure
+adresse :Rue Diderot 98b
+ville : Arles
+mail : mf@mailgen.pw
+code :738mkY6E7uB3cAMx
+age : 57
+
+
+nom : Laurent
+prenom :  Lacombe
+adresse :Boulevard du jardin zoologique 179c
+ville :Marseille
+mail : llacombe@mailgen.xyz
+code :Bk9S3bxyJFVRnpsG
+age : 87
+
+
+nom : Jerome
+prenom : Leroux
+adresse : Boulevard Verdun 129a
+ville :Dijon
+mail : jl1004@mailgen.pro
+code :38rKQ7KWPEWLfABh
+age : 
+
+
+nom : Luc 
+prenom : Lambert
+adresse :Rue Georges Mandel 155c
+ville :Bziers
+mail : lucl@mailgen.xyz
+code :3NvNJDDTc3cSEvv2
+age : 26
+
+
+nom : Maurice 
+prenom : Hubert
+adresse : Rue Alsace Lorraine 190b
+ville :Toulouse
+mail : mauriceh22@mailgen.fun
+code :MPcLt8EJqSay8Sy5
+age : 
+
+
+
+
+
+
